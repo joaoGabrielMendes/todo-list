@@ -2,7 +2,7 @@ import axios from "axios";
 
 class Api {
   constructor() {
-    this.todo = axios.create({ baseURL: "http://192.168.1.66:3001/" });
+    this.todo = axios.create({ baseURL: "http://localhost:3001/" });
   }
 
   async getAllTodos() {
