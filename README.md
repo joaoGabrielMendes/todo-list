@@ -1,7 +1,7 @@
 ## About
 
 <p align="center">
-  <img src='https://i.ibb.co/J2jqM2S/localhost-3000-Pixel-5.png'>
+  <img src='https://i.ibb.co/FDLp986/localhost-3000-2.png'>
 </p>
 
 Simple todo list :)
